@@ -1,0 +1,23 @@
+{
+  "name": "gisty",
+  "version": "1.0.0",
+  "description": "cli for uploading gists to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "gisty test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneprrlt/gisty.git"
+  },
+  "keywords": [
+    "github",
+    "gists"
+  ],
+  "author": "shane perreault",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaneprrlt/gisty/issues"
+  },
+  "homepage": "https://github.com/shaneprrlt/gisty#readme"
+}
